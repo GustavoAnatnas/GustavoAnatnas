@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Gustavo Sant'Ana
-- 🔭 Estou trabalhando no projeto **Trybe Futebol Clube**
+- 🔭 Estou trabalhando no projeto **Aluta-Stickers-Imersao-Java**
 
-- 🌱 Atualmente estou estudando **TypeScript e Programação Orientada a Objetos**
+- 🌱 Atualmente estou estudando **JAVA**
 
 - 💬 Me pergunte sobre qualquer coisa. **Talvez eu não tenha a resposta, mas buscarei ferramentas para auxiliar!**
 
