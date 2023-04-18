@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Gustavo Sant'Ana
-- 🔭 Estou trabalhando no projeto **Aluta-Stickers-Imersao-Java**
+- 🔭 Estou trabalhando no projeto **Pokedex**
 
 - 🌱 Atualmente estou estudando **JAVA**
 
