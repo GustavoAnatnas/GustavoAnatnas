@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Gustavo Sant'Ana
-- 🔭 Estou trabalhando no projeto **Pokedex**
+- 🔭 Estou trabalhando no projeto **Aluroni**
 
-- 🌱 Atualmente estou estudando **JAVA**
+- 🌱 Atualmente estou estudando **TypeScript**
 
 - 💬 Me pergunte sobre qualquer coisa. **Talvez eu não tenha a resposta, mas buscarei ferramentas para auxiliar!**
 
