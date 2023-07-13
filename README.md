@@ -17,6 +17,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavoanatnas&show_icons=true&theme=radical&locale=en" alt="gustavoanatnas" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoanatnas&show_icons=true&theme=radical&locale=en&layout=compact" alt="gustavoanatnas" /></p>
