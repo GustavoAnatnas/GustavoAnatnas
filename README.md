@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Gustavo Sant'Ana
 - 🔭 Estou trabalhando no projeto **AlFood**
 
-- 🌱 Atualmente estou estudando **TypeScript**
+- 🌱 Atualmente estou estudando **React com Typescript**
 
 - 💬 Me pergunte sobre qualquer coisa. **Talvez eu não tenha a resposta, mas buscarei ferramentas para auxiliar!**
 
