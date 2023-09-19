@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Gustavo Sant'Ana
-- 🔭 Estou trabalhando no projeto **Aluroni**
+- 🔭 Estou trabalhando no projeto **AlFood**
 
 - 🌱 Atualmente estou estudando **TypeScript**
 
