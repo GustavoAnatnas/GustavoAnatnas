@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Gustavo Sant'Ana
-- 🔭 Estou trabalhando no projeto **-**
+- 🔭 Estou desenvolvendo testes no projeto **ByteBank**
 
-- 🌱 Atualmente estou estudando **React com Typescript**
+- 🌱 Atualmente estou estudando **React com testes automatizados**
 
 - 💬 Me pergunte sobre qualquer coisa. **Talvez eu não tenha a resposta, mas buscarei ferramentas para auxiliar!**
 
