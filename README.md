@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Gustavo Sant'Ana
-- 🔭 Estou trabalhando no projeto **Sorteador de Amigo Secreto**
+- 🔭 Estou trabalhando no projeto **-**
 
 - 🌱 Atualmente estou estudando **React com Typescript**
 
