@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Gustavo Sant'Ana
-- 🔭 Estou desenvolvendo testes no projeto **ByteBank-v2**
+- 🔭 Estou desenvolvendo testes E2E com Cypress no projeto **ByteBank-v3-e2e**
 
 - 🌱 Atualmente estou estudando **React com testes automatizados**
 
