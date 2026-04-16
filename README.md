@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Gustavo Sant'Ana
-- 🌱 Atualmente estou estudando **Análise e Desenvolvimento de Sistemas**
+- 🌱 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas**
 
 - 💬 Me pergunte sobre qualquer coisa. **Talvez eu não tenha a resposta, mas buscarei ferramentas para auxiliar!**
 
