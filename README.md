@@ -86,6 +86,4 @@ Trabalho na ponte entre negócio e tecnologia, com foco em **IA**, dados, área 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoanatnas&show_icons=true&theme=radical&locale=en&layout=compact" />
-</p>
+<p align="center"><a href="https://github.com/GustavoAnatnas"><img src="https://github-stats-extended.vercel.app/api?username=gustavoanatnas&rank_icon=github&custom_title=My%20GitHub%20Status&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub Stats" /></a></p>
