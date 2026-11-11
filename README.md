@@ -35,7 +35,6 @@ Trabalho na ponte entre negócio e tecnologia, com foco em **IA**, dados, área 
 
 ![SAS](https://img.shields.io/badge/SAS_Intelligent_Decisioning-0766D1?style=for-the-badge)
 ![SAS Viya](https://img.shields.io/badge/SAS_Viya-0766D1?style=for-the-badge)
-![SAS Enterprise Miner](https://img.shields.io/badge/SAS_Enterprise_Miner-0766D1?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **IA**
@@ -71,6 +70,7 @@ Trabalho na ponte entre negócio e tecnologia, com foco em **IA**, dados, área 
 
 **Banco de dados**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
