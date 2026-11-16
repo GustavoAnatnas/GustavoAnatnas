@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gustavo Sant'Ana 👋
 
-Trabalho na ponte entre negócio e tecnologia, com foco em **IA**, dados, área financeira e desenvolvimento **full stack**, usando SAS no dia a dia 🚀
+Trabalho na ponte entre negócio e tecnologia, com foco em **IA**, dados, área financeira e desenvolvimento **full stack**, usando SAS no dia a dia 
 
 ### 💼 Experiência
 
